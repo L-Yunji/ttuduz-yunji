@@ -16,7 +16,7 @@
 ```
 
 ### 개발 환경
-[![React Native](https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=black)](https://ko.reactjs.org/)
+[![React Native](https://t1.daumcdn.net/cfile/tistory/990221445C923EA016)](https://reactnative.dev/docs/getting-started)
 
 
 ## 🚩 Commit Message
